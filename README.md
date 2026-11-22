@@ -1,6 +1,5 @@
-# Typewave for Linux: test builds
+# Typewave for Linux
 
-This repository holds Typewave for Linux test builds.
 Download the files from the Releases page.
 
 ## Install
